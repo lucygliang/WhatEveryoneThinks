@@ -1,6 +1,7 @@
 {
   "name": "whateveryonethinks",
   "version": "1.0.0",
+  "description": "A skill that tells what what everyone thinks about something by running the query through Google Autocomplete.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
