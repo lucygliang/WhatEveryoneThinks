@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "GetAutocompleteIntent",
+      "slots": [
+        {
+          "name": "Target",
+          "type": "AUTOCOMPLETE_TARGET"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

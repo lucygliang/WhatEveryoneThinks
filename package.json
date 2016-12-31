@@ -1,0 +1,33 @@
+{
+  "name": "whateveryonethinks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucygliang/WhatEveryoneThinks.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "autocomplete",
+    "autosuggest",
+    "search",
+    "bot",
+    "joke",
+    "humor"
+  ],
+  "author": "Lucy G Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucygliang/WhatEveryoneThinks/issues"
+  },
+  "homepage": "https://github.com/lucygliang/WhatEveryoneThinks#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "autocompl": "^1.1.0",
+    "lingo": "0.0.5"
+  }
+}

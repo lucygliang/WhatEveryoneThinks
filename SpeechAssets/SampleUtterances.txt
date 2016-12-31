@@ -1,0 +1,35 @@
+GetAutocompleteIntent {Target}
+GetAutocompleteIntent ask about {Target}
+GetAutocompleteIntent tell me about {Target}
+GetAutocompleteIntent information on {Target}
+GetAutocompleteIntent information about {Target}
+GetAutocompleteIntent thoughts on {Target}
+GetAutocompleteIntent thoughts about {Target}
+GetAutocompleteIntent advice on {Target}
+GetAutocompleteIntent advice about {Target}
+GetAutocompleteIntent tell me what people think of {Target}
+GetAutocompleteIntent tell me what people think about {Target}
+GetAutocompleteIntent tell me what people say about {Target}
+GetAutocompleteIntent tell me what people believe about {Target}
+GetAutocompleteIntent tell me what everyone thinks of {Target}
+GetAutocompleteIntent tell me what everyone thinks about {Target}
+GetAutocompleteIntent tell me what everyone says about {Target}
+GetAutocompleteIntent tell me what everyone believes about {Target}
+GetAutocompleteIntent tell me what everybody thinks of {Target}
+GetAutocompleteIntent tell me what everybody thinks about {Target}
+GetAutocompleteIntent tell me what everybody says about {Target}
+GetAutocompleteIntent tell me what everybody believes about {Target}
+GetAutocompleteIntent thinks about {Target}
+GetAutocompleteIntent think about {Target}
+GetAutocompleteIntent thinks of {Target}
+GetAutocompleteIntent think of {Target}
+GetAutocompleteIntent agrees on {Target}
+GetAutocompleteIntent agree of {Target}
+GetAutocompleteIntent believes about {Target}
+GetAutocompleteIntent believe about {Target}
+GetAutocompleteIntent says about {Target}
+GetAutocompleteIntent say about {Target}
+GetAutocompleteIntent talks about {Target}
+GetAutocompleteIntent talk about {Target}
+GetAutocompleteIntent notices about {Target}
+GetAutocompleteIntent notice about {Target}
